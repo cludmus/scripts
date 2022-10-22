@@ -1,0 +1,7 @@
+tag=wolf 303
+tag=bear 322
+tag=cat 2170
+tag=dog 1984
+tag=tiger 701
+tag=lion 494
+tag=owl 447
